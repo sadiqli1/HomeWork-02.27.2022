@@ -1,0 +1,14 @@
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.exe
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.deps.json
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.runtimeconfig.json
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.runtimeconfig.dev.json
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.dll
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\bin\Debug\netcoreapp3.1\HomeWork-02.27.2022.pdb
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.csproj.AssemblyReference.cache
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.AssemblyInfoInputs.cache
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.AssemblyInfo.cs
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.csproj.CoreCompileInputs.cache
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.dll
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.pdb
+C:\Users\isasa\Desktop\HomeWork\HomeWork-02.27.2022\HomeWork-02.27.2022\obj\Debug\netcoreapp3.1\HomeWork-02.27.2022.genruntimeconfig.cache
